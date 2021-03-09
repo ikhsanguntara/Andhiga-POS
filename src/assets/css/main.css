@@ -1,0 +1,16 @@
+.b-red {
+  border: 1px solid red;
+}
+
+.b-green {
+  border: 1px solid green;
+}
+
+.b-blue {
+  border: 1px solid blue;
+}
+
+.backdrop {
+  height: 100%;
+  background-color: var(--v-grey-lighten4);
+}
